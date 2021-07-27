@@ -1,5 +1,5 @@
 # Project Vision 
-# Project Creators: Avishrant Sharma, Spriha Gautam, Ritik Dhiman 
+## Project Creators: Avishrant Sharma, Spriha Gautam, Ritik Dhiman 
 ## Introduction
 **Surveillance** means safety. Despite so much surveillance, the crime rates are increasing. The problem lies in the fact that inspecting several hundreds and thousands of videos is very laborous and time-intensive task. Only after a crime is committed, these footages are inspected to ***find the crime scenes evidence***, which proves to be highly inefficient considering the massive amount of footages. This manual task provides evidence in court but is rarely used to ***prevent crime or react to it in real-time***.    
 <br>
